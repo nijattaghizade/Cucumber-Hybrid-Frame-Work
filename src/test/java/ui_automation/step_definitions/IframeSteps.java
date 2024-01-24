@@ -2,8 +2,6 @@ package ui_automation.step_definitions;
 
 import io.cucumber.java.en.*;
 import org.junit.Assert;
-import org.openqa.selenium.WebDriver;
-import ui_automation.pages.IframePage;
 import ui_automation.utilities.Driver;
 import java.util.concurrent.TimeUnit;
 
