@@ -26,4 +26,8 @@ public class DropdownPage {
     @FindBy(id = "dropdown")
     public WebElement dropdownSelect;
 
+
+    @FindBy (xpath = "//*[@placeholder='Year']")
+    public  WebElement year;
+
 }
