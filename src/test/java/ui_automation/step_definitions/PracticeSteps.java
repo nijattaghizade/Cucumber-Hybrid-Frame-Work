@@ -20,5 +20,6 @@ PracticePage practicePage=new PracticePage();
         practicePage.downLoad.click();
         Thread.sleep(5000);
 
+
     }
 }
